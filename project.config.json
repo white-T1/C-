@@ -1,0 +1,174 @@
+{
+	"miniprogramRoot": "miniprogram/",
+	"cloudfunctionRoot": "cloudfunctions/",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"enhance": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": false,
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"appid": "wx32e1431ab20266e6",
+	"projectname": "C%E8%AF%AD%E8%A8%80",
+	"libVersion": "2.10.1",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"cloudfunctionTemplateRoot": "cloudfunctionTemplate",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "pages/person/person",
+					"pathName": "pages/person/person",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/profile/profile",
+					"pathName": "pages/profile/profile",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/rank/rank",
+					"pathName": "pages/rank/rank",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 4,
+					"name": "pages/mistake/mistake",
+					"pathName": "pages/mistake/mistake",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 5,
+					"name": "pages/chapter/question/question",
+					"pathName": "pages/chapter/question/question",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/chapter/chapter",
+					"pathName": "pages/chapter/chapter",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/chapter/question/question",
+					"pathName": "pages/chapter/question/question",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "excel/excel",
+					"pathName": "excel/excel",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 9,
+					"name": "pages/login/login",
+					"pathName": "pages/login/login",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/home/home",
+					"pathName": "pages/home/home",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/register/register",
+					"pathName": "pages/register/register",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/person/note/note",
+					"pathName": "pages/person/note/note",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "t_pages/home/home",
+					"pathName": "t_pages/home/home",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "t_pages/notify/public/public",
+					"pathName": "t_pages/notify/public/public",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "t_pages/notify/notify",
+					"pathName": "t_pages/notify/notify",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "t_pages/onlion_answer/onlion_answer",
+					"pathName": "t_pages/onlion_answer/onlion_answer",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/person/myonlion/myonlion",
+					"pathName": "pages/person/myonlion/myonlion",
+					"scene": null
+				}
+			]
+		}
+	}
+}
